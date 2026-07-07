@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Leonel 👋</h1>
+<h1 align="center">Hey, I'm Leonel</h1>
 
 <h3 align="center">SWE Student @ Tec de Monterrey</h3>
 
