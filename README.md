@@ -9,6 +9,18 @@
   <a href="mailto:bailondelta@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://codeforces.com/profile/herrdelta83">
+    <img src="https://img.shields.io/badge/Codeforces-1F1C3D?style=flat-square&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/herrdelta83">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://discordapp.com/users/YOUR_DISCORD_ID">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://icpc.global/USERID">
+    <img src="https://img.shields.io/badge/ICPC-00A3E0?style=flat-square&logo=icpc&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -76,11 +88,11 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| **[Temis RiskControl](https://github.com/salog0d/temis-riskcontrol)** | Real-time fraud detection platform with a 3-stage AI agent pipeline (risk → decision → action) + full observability stack. Built at ITC × Capital One Challenge 2026. | FastAPI · Google ADK · Gemini 2.5 · PostgreSQL · Prometheus/Grafana |
-| **[AccessFlow](https://github.com/herrdelta83/salvasystemsapp)** | Fully on-device iOS app that audits GitHub Swift repos for accessibility issues using Apple FoundationModels — no server, no cloud inference. | Swift · SwiftUI · Apple FoundationModels |
-| **Network Optimization** | Solved fiber-optic infrastructure routing using TSP (Held-Karp) and Max-Flow (Edmonds-Karp), shipped with a full CI/CD pipeline: SonarQube, CodeQL, Gitleaks, OWASP ZAP. | C++ · CMake · GitHub Actions |
+| **[Temis RiskControl](https://github.com/salog0d/temis-riskcontrol)** | Real-time fraud detection platform with a 3-stage AI agent pipeline (risk → decision → action) + full observability stack.[...]
+| **[AccessFlow](https://github.com/herrdelta83/salvasystemsapp)** | Fully on-device iOS app that audits GitHub Swift repos for accessibility issues using Apple FoundationModels — no server, no clou[...]
+| **Network Optimization** | Solved fiber-optic infrastructure routing using TSP (Held-Karp) and Max-Flow (Edmonds-Karp), shipped with a full CI/CD pipeline: SonarQube, CodeQL, Gitleaks, OWASP ZAP. | [...]
 | **QuoteMaster Pro** *(private, PROFUCOM)* | AI-powered multi-agent sales quoting orchestrator automating product lookup, pricing, and quote generation. | Python · LangChain |
-| **[Experimental Agents](https://github.com/herrdelta83/experimental_agents)** | Unity simulation comparing agent algorithms (Q-Learning vs A*) for effectiveness across shared environments. | Python · Unity |
+| **[Experimental Agents](https://github.com/herrdelta83/experimental_agents)** | Unity simulation comparing agent algorithms (Q-Learning vs A*) for effectiveness across shared environments. | Python [...]
 
 ---
 
