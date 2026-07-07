@@ -12,13 +12,10 @@
   <a href="https://codeforces.com/profile/herrdelta83">
     <img src="https://img.shields.io/badge/Codeforces-1F1C3D?style=flat-square&logo=codeforces&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/herrdelta83">
+  <a href="https://leetcode.com/Fox_Mulder83">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
   </a>
-  <a href="https://discordapp.com/users/YOUR_DISCORD_ID">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" />
-  </a>
-  <a href="https://icpc.global/USERID">
+  <a href="https://icpc.global/ICPCID/MRQW8F94E4AY">
     <img src="https://img.shields.io/badge/ICPC-00A3E0?style=flat-square&logo=icpc&logoColor=white" />
   </a>
 </p>
