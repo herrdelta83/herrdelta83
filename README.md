@@ -30,6 +30,7 @@
 - Aspiring Competitive programmer with **TECacm / RAMcpp**, training for ICPC
 - Currently focused on: backend architecture, DSA at depth, and multi-agent AI systems 
 - Long-term goal: pivoting into **Robotics Software Engineering** — working toward a Master's in Robotics
+- E-porfolio: https://e-portfolio-phi-six.vercel.app/
 
 ---
 
