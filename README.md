@@ -26,11 +26,10 @@
 
 - Computer Science student (5th semester) at **Tec de Monterrey**, ITC track
 - Co-Founder @ **Puente Impacto** — free/low-cost software for NGOs and social projects
-- Education Directorship @ **SEITC** (2026–2027) — leading DSA & portfolio-building workshops for students
 - Aspiring Competitive programmer with **TECacm / RAMcpp**, training for ICPC
-- Currently focused on: backend architecture, DSA at depth, and multi-agent AI systems 
-- Long-term goal: pivoting into **Robotics Software Engineering** — working toward a Master's in Robotics
-- E-porfolio: https://e-portfolio-phi-six.vercel.app/
+- Currently focused on: backend architecture, DSA at depth, and low-level computing
+- Long-term goal: pivoting into **Robotics Software Engineering** in the future
+- E-porfolio (On-work): https://e-portfolio-phi-six.vercel.app/
 
 ---
 
