@@ -9,12 +9,6 @@
   <a href="mailto:bailondelta@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://codeforces.com/profile/herrdelta83">
-    <img src="https://img.shields.io/badge/Codeforces-1F1C3D?style=flat-square&logo=codeforces&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/Fox_Mulder83">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
-  </a>
   <a href="https://icpc.global/ICPCID/MRQW8F94E4AY">
     <img src="https://img.shields.io/badge/ICPC-00A3E0?style=flat-square&logo=icpc&logoColor=white" />
   </a>
@@ -29,7 +23,6 @@
 - Aspiring Competitive programmer with **TECacm / RAMcpp**, training for ICPC
 - Currently focused on: backend architecture, DSA at depth, and low-level computing
 - Long-term goal: pivoting into **Robotics Software Engineering** in the future
-- E-porfolio (On-work): https://e-portfolio-phi-six.vercel.app/
 
 ---
 
